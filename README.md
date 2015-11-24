@@ -6,7 +6,10 @@ The app was designed to work with this sketch and the following parts:
 
 Arduino Uno
 SeeedStudio Bluetooth Shield v2
+http://www.seeedstudio.com/wiki/Bluetooth_Shield_V2.0
+
 SeeedStudio Grove IMU9DOF
+http://www.seeedstudio.com/wiki/Grove_-_IMU_9DOF_v2.0
 
 See http://ridedata.net for details about hardware currently supported configuration and detail instructions
 
