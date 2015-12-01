@@ -8,8 +8,8 @@ Arduino Uno
 SeeedStudio Bluetooth Shield v2
 http://www.seeedstudio.com/wiki/Bluetooth_Shield_V2.0
 
-SeeedStudio Grove IMU9DOF
-http://www.seeedstudio.com/wiki/Grove_-_IMU_9DOF_v2.0
+SeeedStudio Grove IMU10DOF
+http://www.seeedstudio.com/depot/Grove-IMU-10DOF-p-2386.html
 
 See http://ridedata.net for details about hardware currently supported configuration and detail instructions
 
