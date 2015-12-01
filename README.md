@@ -17,5 +17,8 @@ If you write your own it just has to send a total of 14 data points over Bluetoo
 
 It should go:
 Gyro X axis, Y, Z, Accelerometer X, Y, Z, Magnetometer X, Y, Z, heading, tiltheading, temperature, pressure, atm, altitude
+after waiting for the character 'a'
+
+If your IMU doesn't have all of the functions make sure it just sends the number 0.0 in place, or another number so you could just repeat the data you do have. It just needs to have the same data count and commas, see the included sketch to help write yours.
 
 Look at the included sketch, even if your hardware is different, it will give you an idea for the pattern to follow.
