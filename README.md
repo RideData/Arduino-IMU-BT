@@ -1,3 +1,5 @@
+RideData is a motorsports motorcycle IMU app that uses Arduino to record data while you ride. Search RideData IMU on Google PLay and visit RideData.net for more info.
+
 This is the Arduino sketch for the RideData Android app v1.
 You can use any Bluetooth shield or IMU sensor you'd like, you don't even have to use an Arduino.
 As long as your code, in the case of an Arduino, your sketch, sends the right commands over Bluetooth, the RideData app will read it.
